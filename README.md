@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Python-Projects](https://github.com/HetDaftary/Python-Projects)
 - 🌱 I’m currently learning <b> Web scraping, PyQt5 and Flutter</b> 
 - 👯 I’m looking forward to work as intern at as a Software development intern.
-- goal_net 2021 Goals: To learn Flutter and make projects in it.
+- 🥅 2021 Goals: To learn Flutter and make projects in it.
 
 <br/>
 
