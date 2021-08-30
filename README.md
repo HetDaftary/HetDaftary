@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Python-Projects](https://github.com/HetDaftary/Python-Projects)
-- 🌱 I’m currently learning <b> Web scraping, PyQt5 and Flutter</b> 
-- 👯 I’m looking forward to work as intern at as a Software development intern.
+- 🔭 I’m currently working on [Python-Projects](https://github.com/HetDaftary/Python-Projects), Learning Flutter and React JS.
+- 🌱 I’m currently learning <b> Flutter, React JS and Django</b> 
+- 👯 I’m looking forward to work as intern at as a Software development job.
 - 🥅 2021 Goals: To learn Flutter and make projects in it.
 
 <br/>
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 ### Tools: 
 
-[<img align="left" alt="Visual Studio Code" height = "35em" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" />](https://flutter.dev/)
 [<img align="left" alt="Visual Studio Code" height = "35em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" height="35em" src="https://git-scm.com/images/logo@2x.png" />](https://git-scm.com/downloads)
 [<img align="left" alt="Terminal" height="35em" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
@@ -37,3 +36,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="HetDaftary | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/het_daftary/)
 [<img align="left" alt="HetDaftary | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DaftaryHet)
 [<img align="left" alt="HetDaftary | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/Het-Daftary-1)
+<a href="https://www.codechef.com/users/hetdaftary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetdaftary" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Het_Daftary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Het_Daftary" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hetdaftary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hetdaftary" height="30" width="40" /></a>
+<br/><br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HetDaftary&show_icons=true&locale=en&layout=compact" alt="HetDaftary" /></p>
