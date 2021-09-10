@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Python-Projects](https://github.com/HetDaftary/Python-Projects), Learning Flutter and React JS.
+- 🔭 I’m currently working on [Python-Projects](https://github.com/HetDaftary/Python-Projects), [C-Sharp-Projects](https://github.com/HetDaftary/C-Sharp-Projects) Learning Flutter and React JS.
 - 🌱 I’m currently learning <b> Flutter, React JS and Django</b> 
 - 👯 I’m looking forward to work as intern at as a Software development job.
 - 🥅 2021 Goals: To learn Flutter and make projects in it.
