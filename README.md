@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/Het_Daftary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Het_Daftary" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hetdaftary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hetdaftary" height="30" width="40" /></a>
 <br/><br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HetDaftary&show_icons=true&locale=en&layout=compact" alt="HetDaftary" /></p>
