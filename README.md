@@ -15,12 +15,17 @@ Here are some ideas to get you started:
 
 ### Languages:
 
-[<img align="left" alt="Python" height="35em" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="Java" height="35em" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />](https://www.java.com/en/download/)
 [<img align="left" alt="C++" height="35em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="C" height="35em" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="Python" height="35em" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
+[<img align="left" alt="Java" height="35em" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />](https://www.java.com/en/download/)
+[<img align="left" alt="C#" height="35em" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 <br/><br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetDaftary&theme=radical" alt="HetDaftary" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HetDaftary&count_private=true&theme=radical" alt="HetDaftary" /> 
+
+<br/><br/><br/><br/>
 
 ### Tools: 
 
