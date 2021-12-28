@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-
 ## I am Software development Enthusiast and I like to contribute to the open source.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [Python-Projects](https://github.com/HetDaftary/Python-Projects), [C-Sharp-Projects](https://github.com/HetDaftary/C-Sharp-Projects) Learning Flutter and React JS.
-- 🌱 I’m currently learning <b> Flutter, React JS and Django</b> 
-- 👯 I’m looking forward to work as intern at as a Software development job.
-- 🥅 2021 Goals: To learn Flutter and make projects in it.
 
 ### Languages:
 
@@ -20,7 +12,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetDaftary&theme=radical" alt="HetDaftary" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HetDaftary&count_private=true&theme=radical" alt="HetDaftary" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetDaftary&theme=dark" alt="HetDaftary" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HetDaftary&count_private=true&theme=dark" alt="HetDaftary" /> 
 
 <br/><br/><br/>
 
