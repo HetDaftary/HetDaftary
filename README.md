@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## I am Software developer, Robotics Enthusiast and I like to contribute to the open source.
+## I am a Software developer, Robotics Enthusiast and I like to contribute to open source.
 
-- I work on various open-source projects and I primarily work in C/C++, Python and Java.
+- I work on various open-source projects primarily in C/C++, Python, and Java.
 - Currently working on the course [Programming Fundamentals](https://www.youtube.com/watch?v=DMx0mr8WFac&list=PLK59HDBUP-dsCDsg3bGapEbcYl7_GcOst) for our YouTube channel [The Coding Jungle](https://www.youtube.com/channel/UCyGdc3m67Ouj8dn5MkaACPw/) 
 - Software developer at Ishitva Robotics Systems, Ahmedabad.
 
