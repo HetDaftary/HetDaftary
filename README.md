@@ -17,12 +17,6 @@ I’m a cybersecurity enthusiast driven by a passion for securing digital enviro
 - **System Administration**: Linux, Virtualization, Cloud Computing
 - **Programming & Scripting**: Python, Bash, C++
 - **Security Tools**: Wireshark, Nmap, Metasploit
-
----
-
-### 🔭 Projects
-- **[COVID-19 Prediction Model](https://github.com/your-repo)**: Contributed to predicting COVID-19 cases as part of an IIT Kanpur internship, supporting government policy-making.
-
 ---
 
 ### 🎯 Goals
