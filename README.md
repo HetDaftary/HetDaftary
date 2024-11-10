@@ -9,8 +9,6 @@ I’m a cybersecurity enthusiast driven by a passion for securing digital enviro
 
 - 🎓 **Education**: BTech in Information and Communication Technology (CPI: 8.96)
 - 🌐 **Certifications**: Google Cybersecurity Professional Certificate (Completed), CEH (in progress), CCNA & CCNP (coming soon!)
-- 🌍 **IELTS Score**: 7.5, **GRE Score**: 320
-- 💻 **Current OS**: Manjaro Linux with time-based Google Authenticator 2FA
 
 ---
 
