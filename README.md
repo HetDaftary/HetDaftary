@@ -1,40 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm Het Pragnesh Daftary
 
-## I am a Software developer, Robotics Enthusiast and I like to contribute to open source.
+🔒 **Cybersecurity Enthusiast | Aspiring Penetration Tester | BTech in ICT**
 
-- I work on various open-source projects primarily in C/C++, Python, and Java.
-- Currently working on the course [Programming Fundamentals](https://www.youtube.com/watch?v=DMx0mr8WFac&list=PLK59HDBUP-dsCDsg3bGapEbcYl7_GcOst) for our YouTube channel [The Coding Jungle](https://www.youtube.com/channel/UCyGdc3m67Ouj8dn5MkaACPw/) 
-- Software developer at Ishitva Robotics Systems, Ahmedabad.
+---
 
-### Languages:
+### 👨‍💻 About Me
+I’m a cybersecurity enthusiast driven by a passion for securing digital environments. Since my BTech studies, I’ve been exploring the exciting world of cybersecurity, and through professional experience, I’ve gained expertise in areas like infrastructure security, VPN technologies, firewall configurations, and vulnerability analysis. Now, I’m focused on becoming a skilled penetration tester, driven by a curiosity to uncover vulnerabilities and apply machine learning to exploit zero-day threats.
 
-[<img align="left" alt="C++" height="35em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="C" height="35em" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="Python" height="35em" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="Java" height="35em" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />](https://www.java.com/en/download/)
-[<img align="left" alt="C#" height="35em" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- 🎓 **Education**: BTech in Information and Communication Technology (CPI: 8.96)
+- 🌐 **Certifications**: Google Cybersecurity Professional Certificate (Completed), CEH (in progress), CCNA & CCNP (coming soon!)
+- 🌍 **IELTS Score**: 7.5, **GRE Score**: 320
+- 💻 **Current OS**: Manjaro Linux with time-based Google Authenticator 2FA
 
-<br/><br/>
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetDaftary&theme=dark" alt="HetDaftary" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HetDaftary&count_private=true&theme=dark" alt="HetDaftary" /> 
+### 🛠 Skills
+- **Cybersecurity**: VPN Technologies (IPSec, SSL), Network Zones, Fortigate Firewalls, ZTNA, OpenVPN, Multi-factor Authentication, Disk Encryption
+- **System Administration**: Linux, Virtualization, Cloud Computing
+- **Programming & Scripting**: Python, Bash, C++
+- **Security Tools**: Wireshark, Nmap, Metasploit
 
-<br/><br/><br/>
+---
 
-### Tools: 
+### 🔭 Projects
+- **[COVID-19 Prediction Model](https://github.com/your-repo)**: Contributed to predicting COVID-19 cases as part of an IIT Kanpur internship, supporting government policy-making.
+- **[Infrastructure Security for Ishitva Robotic Systems](https://github.com/your-repo)**: Improved security by setting up firewalls, network zones, disk encryption, and periodic security audits.
+- **[2FA on Manjaro Linux](https://github.com/your-repo)**: Secured my laptop with Google Authenticator for two-factor authentication.
 
-[<img align="left" alt="Visual Studio Code" height = "35em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" height="35em" src="https://git-scm.com/images/logo@2x.png" />](https://git-scm.com/downloads)
-[<img align="left" alt="Terminal" height="35em" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[<img align="left" alt="arduino" height = "35em" src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" />](https://www.arduino.cc/)
+---
 
-<br/><br/>
+### 🎯 Goals
+- 📚 **Learning**: Expanding knowledge in network security, cryptography, vulnerability analysis, and digital forensics.
+- 🕵️ **Researching**: Exploring the applications of machine learning in cybersecurity for detecting and exploiting zero-day vulnerabilities.
+- 🎓 **Pursuing MS**: Aiming for a master’s degree in cybersecurity in the USA, with a strong focus on machine learning and offensive security.
 
-### Connect with me:
-[<img align="left" alt="HetDaftary | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/het-daftary-193453171/)
-[<img align="left" alt="HetDaftary | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/het_daftary/)
-[<img align="left" alt="HetDaftary | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/DaftaryHet)
-[<img align="left" alt="HetDaftary | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />](https://www.quora.com/profile/Het-Daftary-1)
-<a href="https://www.codechef.com/users/hetdaftary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetdaftary" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Het_Daftary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Het_Daftary" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hetdaftary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hetdaftary" height="30" width="40" /></a>
-<br/><br/>
+---
+
+### 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/het-daftary](https://linkedin.com/in/hetdaftary)
+- **Email**: hetdaftary@gmail.com
+---
+
+**🔐 "Security is not a product, but a process." – Bruce Schneier**
+
+Feel free to explore my repos, collaborate on projects, or just connect to discuss cybersecurity!
