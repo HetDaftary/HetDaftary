@@ -22,8 +22,6 @@ I’m a cybersecurity enthusiast driven by a passion for securing digital enviro
 
 ### 🔭 Projects
 - **[COVID-19 Prediction Model](https://github.com/your-repo)**: Contributed to predicting COVID-19 cases as part of an IIT Kanpur internship, supporting government policy-making.
-- **[Infrastructure Security for Ishitva Robotic Systems](https://github.com/your-repo)**: Improved security by setting up firewalls, network zones, disk encryption, and periodic security audits.
-- **[2FA on Manjaro Linux](https://github.com/your-repo)**: Secured my laptop with Google Authenticator for two-factor authentication.
 
 ---
 
