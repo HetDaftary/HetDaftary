@@ -1,35 +1,44 @@
-# 👋 Hi, I'm Het Pragnesh Daftary
+# 👋 Hi, I'm Het Daftary  
 
-🔒 **Cybersecurity Enthusiast | Aspiring Penetration Tester | BTech in ICT**
-
----
-
-### 👨‍💻 About Me
-I’m a cybersecurity enthusiast driven by a passion for securing digital environments. Since my BTech studies, I’ve been exploring the exciting world of cybersecurity, and through professional experience, I’ve gained expertise in areas like infrastructure security, VPN technologies, firewall configurations, and vulnerability analysis. Now, I’m focused on becoming a skilled penetration tester, driven by a curiosity to uncover vulnerabilities and apply machine learning to exploit zero-day threats.
-
-- 🎓 **Education**: BTech in Information and Communication Technology (CPI: 8.96)
-- 🌐 **Certifications**: Google Cybersecurity Professional Certificate (Completed), CEH (in progress), CCNA & CCNP (coming soon!)
+💻 **Software Engineer** | 🚗 **Embedded Vision & ADAS Developer** | 📷 **Computer Vision Enthusiast**  
 
 ---
 
-### 🛠 Skills
-- **Cybersecurity**: VPN Technologies (IPSec, SSL), Network Zones, Fortigate Firewalls, ZTNA, OpenVPN, Multi-factor Authentication, Disk Encryption
-- **System Administration**: Linux, Virtualization, Cloud Computing
-- **Programming & Scripting**: Python, Bash, C++
-- **Security Tools**: Wireshark, Nmap, Metasploit
----
+## 🚀 About Me  
+I’m a software engineer passionate about building efficient, scalable, and performance-driven applications. My work spans from embedded AI systems to Windows desktop applications, combining modern C++, Python, and GPU-accelerated pipelines.
 
-### 🎯 Goals
-- 📚 **Learning**: Expanding knowledge in network security, cryptography, vulnerability analysis, and digital forensics.
-- 🕵️ **Researching**: Exploring the applications of machine learning in cybersecurity for detecting and exploiting zero-day vulnerabilities.
+I love solving challenging real-time problems — whether it’s optimizing a vision pipeline for edge AI hardware or crafting robust desktop tools for industrial use.
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/het-daftary](https://linkedin.com/in/hetdaftary)
-- **Email**: hetdaftary@gmail.com
+## 🛠️ Experience
+
+### **Samsung Electro-Mechanics** – *Software Engineer*
+**ADAS (Advanced Driver Assistance Systems)**  
+- Developed an **efficient Driver Monitoring System (DMS)** for the **TI TDA4VM edge AI platform** using **Python, C++, OpenCV, GStreamer, and TI-OVX**.  
+- Optimized **JPEG encoding** and camera processing pipelines for low CPU usage and real-time performance.  
+- Designed **Qt/QML-C++** based GUI for visualization, system monitoring, and control.
+
+**Camera Calibration & Inspection System**  
+- Worked on an industrial **camera calibration and inspection project** using **C++** and **Microsoft Foundation Class (MFC)** framework.  
+- Implemented precise image processing algorithms and robust calibration workflows for production environments.  
+- Improved system usability, stability, and speed.
+
 ---
 
-**🔐 "Security is not a product, but a process." – Bruce Schneier**
+## 🧰 Tech Stack  
+**Languages:** C++, Python, JavaScript, Bash  
+**Frameworks & Tools:** Qt/QML, MFC, OpenCV, GStreamer, TI-OVX, PyQt6  
+**Specialties:** Computer Vision, Embedded Systems, Real-Time Processing, UI Development, Hardware Acceleration  
 
-Feel free to explore my repos, collaborate on projects, or just connect to discuss cybersecurity!
+---
+
+## 📌 Featured Projects  
+- 🚗 **ADAS DMS Solution for TI-TDA4VM** – Real-time face detection, landmark tracking, and recognition with optimized JPEG encoding pipeline.  
+- 📏 **Camera Calibration & Inspection Tool** – MFC-based industrial application for high-precision calibration.  
+
+---
+
+## 📫 Let's Connect  
+- **LinkedIn:** [linkedin.com/in/het-daftary](https://linkedin.com/in/het-daftary)  
+- **GitHub:** [github.com/HetDaftary](https://github.com/HetDaftary)  
