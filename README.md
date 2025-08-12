@@ -22,7 +22,6 @@ I’m a cybersecurity enthusiast driven by a passion for securing digital enviro
 ### 🎯 Goals
 - 📚 **Learning**: Expanding knowledge in network security, cryptography, vulnerability analysis, and digital forensics.
 - 🕵️ **Researching**: Exploring the applications of machine learning in cybersecurity for detecting and exploiting zero-day vulnerabilities.
-- 🎓 **Pursuing MS**: Aiming for a master’s degree in cybersecurity in the USA, with a strong focus on machine learning and offensive security.
 
 ---
 
