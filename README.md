@@ -43,4 +43,4 @@ I specialize in **computer vision**, **real-time processing**, and **UI developm
 ## 📫 Let's Connect  
 - **LinkedIn:** [linkedin.com/in/het-daftary](https://linkedin.com/in/het-daftary)  
 - **GitHub:** [github.com/HetDaftary](https://github.com/HetDaftary)  
-- **Instagram**: [instagram.com/het_daftary](instagram.com/het_daftary)
+- **Instagram**: [instagram.com/het_daftary](https://www.instagram.com/het_daftary/)
